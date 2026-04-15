@@ -145,9 +145,6 @@ ddtrace==1.20.0
 
 ---
 
-## ⭐ Sessão para incentivar estrelas no projeto
-
-
 ⭐ Gostou do projeto?
 
 Se este projeto foi útil para você ou para seu aprendizado, considere deixar uma ⭐ no repositório!
