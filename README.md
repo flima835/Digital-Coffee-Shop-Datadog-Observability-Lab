@@ -29,9 +29,7 @@ Este projeto é uma aplicação simples em Flask que simula uma cafeteria. O obj
 
 ## ⚙️ Instalação
 
-1. Clone o repositório: https://gitlab.com/applications5751405/datadog/cafeteria.git
-
-2. Crie o ambiente virtual: 
+1. Crie o ambiente virtual: 
 
 ```
 python3 -m venv venv
@@ -39,13 +37,13 @@ source venv/bin/activate
 ```
 
 
-3. Instale as dependências:
+2. Instale as dependências:
 
 ```
 pip install --upgrade pip setuptools wheel cython
 pip install -r requirements.txt
 ```
-4. Rode a aplicação
+3. Rode a aplicação
 
 ```ddtrace-run python cafeteria.py```
 
